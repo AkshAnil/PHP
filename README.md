@@ -1,2 +1,2 @@
 # PHP
-php project file
+php project file - learning PHP by practicing various codes 
